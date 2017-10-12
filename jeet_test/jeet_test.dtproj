@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">JEET-WORKDESK</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuuC5Cx2b/U6AprklXHU5pQAAAAACAAAAAAADZgAAwAAAABAAAAD5MKGN7EKDfxCMGcwypcoYAAAAAASAAACgAAAAEAAAABW7Kq3JaWPGB4JayXOoX1SIAAAAh2rFcZ59FZDeFwKSBp3SfWrs1iIi4Kx8XhvQQjhFd5B2V0+vnhXXKEVpS042C47sOOPClrW63Zw8bK2YMBo2jvD1udRwGpwgZsyi4rRvIWSi707GibIz8rrvOwt2++RoVri6YeG7QyJKUKO+F5MwzL82a+O5fmcKnnnY3AR/XS/f5nMSYpzQ1BQAAADsUaKM07KpDJWDedSMNNW9yV/osQ==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuuC5Cx2b/U6AprklXHU5pQAAAAACAAAAAAADZgAAwAAAABAAAAAmxwRR67a1y45yc2N+SL4kAAAAAASAAACgAAAAEAAAACx+A35jyMDMWFo5i/f42m+IAAAAXG4d75jqYAR6EIGkIkRcENj/Nk9OEyyjGrdi4cmVCB/jQLHLscbgRNgMMYmbtf7aavvROOkMLJzygA5zIVJimH7UPmPjgYZVus30/FxsW5GJYMsrwokKXL+IsYOZqG81oVxLjkvNpVQg0PImNnyafRjPClf9lZbeHzbA4fCra0PYphZrajt8pxQAAABPybDf8Eh0LRvMIC3cJoiLTbjO1g==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -577,6 +577,24 @@
     </Configuration>
     <Configuration>
       <Name>new1</Name>
+      <Options>
+        <OutputPath>bin</OutputPath>
+        <ConnectionMappings />
+        <ConnectionProviderMappings />
+        <ConnectionSecurityMappings />
+        <DatabaseStorageLocations />
+        <TargetServerVersion>SQLServer2016</TargetServerVersion>
+        <ParameterConfigurationValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2017-10-06T08:59:06.2883158Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationValues>
+      </Options>
+    </Configuration>
+    <Configuration>
+      <Name>Debug</Name>
       <Options>
         <OutputPath>bin</OutputPath>
         <ConnectionMappings />

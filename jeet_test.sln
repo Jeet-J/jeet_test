@@ -7,10 +7,13 @@ Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "jeet_test", "jeet_test\jeet
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
 		Development|Default = Development|Default
 		new1|Default = new1|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DDE503-C61A-4B0B-96EA-C9BE8998435E}.Debug|Default.ActiveCfg = Debug
+		{49DDE503-C61A-4B0B-96EA-C9BE8998435E}.Debug|Default.Build.0 = Debug
 		{49DDE503-C61A-4B0B-96EA-C9BE8998435E}.Development|Default.ActiveCfg = Development
 		{49DDE503-C61A-4B0B-96EA-C9BE8998435E}.Development|Default.Build.0 = Development
 		{49DDE503-C61A-4B0B-96EA-C9BE8998435E}.Development|Default.Deploy.0 = Development
