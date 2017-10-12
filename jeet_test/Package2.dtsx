@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="10/12/2017 6:17:48 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="JEET-WORKDESK"
+  DTS:CreatorName="DROMARTIN\jeet"
+  DTS:DTSID="{21971529-F61E-4B85-9DA6-F954938039CB}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="13.0.2165.0"
+  DTS:LocaleID="2057"
+  DTS:ObjectName="Package2"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{1580CC96-9885-498B-B0FB-159FA39E261D}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
