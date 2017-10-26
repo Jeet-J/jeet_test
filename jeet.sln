@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "jeet_test", "jeet_test\jeet_test.dtproj", "{49DDE503-C61A-4B0B-96EA-C9BE8998435E}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "jeet", "jeet_test\jeet.dtproj", "{49DDE503-C61A-4B0B-96EA-C9BE8998435E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{E677396D-1492-4530-90AE-4268E7824F0E}"
 EndProject
